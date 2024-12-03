@@ -1,0 +1,2 @@
+"""A jupyter notebook which takes the information from the “output source list” 
+from Pouakai and from that, creates a file which is formatted for submission to the Minor Planet Center."""
